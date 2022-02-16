@@ -1,0 +1,6 @@
+name: SpecterVanish
+main: com.lucas.spectervanish.Main
+author: [Specter]
+version: 1.0
+commands:
+  v:
